@@ -1,2 +1,2 @@
 This a conflict test file
-var b =100
+count a=100
